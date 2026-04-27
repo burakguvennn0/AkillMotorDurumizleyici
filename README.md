@@ -1,4 +1,4 @@
-# 🚀 Akıllı Motor Durum İzleyici (Predictive Maintenance & AI)
+#  Akıllı Motor Durum İzleyici (Predictive Maintenance & AI)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange.svg)
@@ -9,12 +9,12 @@
 **Canlı Arıza Tespit Ekranı (Ekran Görüntüsü):**
 ![Akıllı Motor Durum İzleyici Canlı Simülasyon Ekran Görüntüsü](./canli_simulasyon.png)
 
-## 💡 Problem ve Endüstriyel Çözüm
+##  Problem ve Endüstriyel Çözüm
 Enerji santralleri, üretim bantları ve havacılık gibi kritik endüstriyel sektörlerde, beklenmedik motor arızaları devasa üretim duruşlarına ve maliyetlere yol açar. Geleneksel bakım yöntemleri ya çok erken (parça israfı) ya da çok geç (arıza sonrası) yapılır.
 
 **Çözüm (Kestirimci Bakım):** Bu proje, motorlardan alınan ham titreşim sinyallerini analiz ederek arızaları henüz kuluçka aşamasındayken tespit eder. Makine öğrenmesi modeli sayesinde mühendisler, bakımı tam olarak gerektiği zamanda planlayabilirler.
 
-## ⚙️ Sistem Mimarisi ve Mühendislik Yaklaşımı
+##  Sistem Mimarisi ve Mühendislik Yaklaşımı
 
 Sistem, fiziksel donanım verileri ile yazılım zekasını 3 aşamalı bir boru hattı (pipeline) ile birleştirir:
 
